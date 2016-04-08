@@ -1,0 +1,21 @@
+
+.titre-jeu {
+    text-align: center;
+    color:aliceblue;
+}
+
+body {
+    background-color: deepskyblue;
+}
+
+#choixUtilisateur {
+   text-align: center; 
+    font-size: 24px;
+    color: aliceblue;
+}
+
+.img-ordi {
+    height: 237px;
+    width: 237px;
+    margin-left:550px;
+}
